@@ -1,1 +1,2 @@
 # teaching-data-analysis
+Material fromt he Intord to Data analysis I've tought in 2024 and 2025. Material is basically  jupiter notebook that we went through during lessons and labs. All data that we used in scripts is stored in data folders. All scripts should be completely executable.
